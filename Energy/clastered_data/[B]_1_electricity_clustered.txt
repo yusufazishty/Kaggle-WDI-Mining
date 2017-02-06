@@ -1,0 +1,246 @@
+CountryCode;CountryName;AvgElectricity;Cluster
+AFG;Afghanistan;39.0178775;2
+ALB;Albania;100.0;0
+DZA;Algeria;97.834435;0
+ASM;American Samoa;54.1295025;2
+ADO;Andorra;100.0;0
+AGO;Angola;32.7178775;1
+ATG;Antigua and Barbuda;86.3239125;3
+ARB;Arab World;81.3993582192;3
+ARG;Argentina;93.58882;0
+ARM;Armenia;98.021935;0
+ABW;Aruba;86.3239125;3
+AUS;Australia;100.0;0
+AUT;Austria;100.0;0
+AZE;Azerbaijan;97.1428775;0
+BHS;Bahamas, The;97.015255;0
+BHR;Bahrain;92.48119;0
+BGD;Bangladesh;42.105;2
+BRB;Barbados;86.3239125;3
+BLR;Belarus;100.0;0
+BEL;Belgium;100.0;0
+BLZ;Belize;96.3707725;0
+BEN;Benin;28.434435;1
+BMU;Bermuda;100.0;0
+BTN;Bhutan;70.4085175;3
+BOL;Bolivia;75.925;3
+BIH;Bosnia and Herzegovina;98.171935;0
+BWA;Botswana;43.152875;2
+BRA;Brazil;96.975;0
+BRN;Brunei Darussalam;70.953855;3
+BGR;Bulgaria;100.0;0
+BFA;Burkina Faso;9.8;1
+BDI;Burundi;3.95;1
+CPV;Cabo Verde;63.587575;2
+KHM;Cambodia;24.509435;1
+CMR;Cameroon;44.475;2
+CAN;Canada;100.0;0
+CSS;Caribbean small states;89.7180289659;0
+CYM;Cayman Islands;86.3239125;3
+CAF;Central African Republic;7.325;1
+CEB;Central Europe and the Baltics;100.0;0
+TCD;Chad;3.075;1
+CHI;Channel Islands;100.0;0
+CHL;Chile;98.1;0
+CHN;China;97.984435;0
+COL;Colombia;95.675;0
+COM;Comoros;51.889955;2
+ZAR;Congo, Dem. Rep.;11.159435;1
+COG;Congo, Rep.;30.996935;1
+CRI;Costa Rica;96.706445;0
+CIV;Cote d'Ivoire;50.65;2
+HRV;Croatia;100.0;0
+CUB;Cuba;97.465255;0
+CUW;Curacao;86.3239125;3
+CYP;Cyprus;99.09036;0
+CZE;Czech Republic;100.0;0
+DNK;Denmark;100.0;0
+DJI;Djibouti;48.10852;2
+DMA;Dominica;88.9416875;3
+DOM;Dominican Republic;91.05;0
+EAS;East Asia & Pacific (all income levels);92.7642484297;0
+EAP;East Asia & Pacific (developing only);91.9954384668;0
+ECU;Ecuador;94.3;0
+EGY;Egypt, Arab Rep.;98.2;0
+SLV;El Salvador;87.425;3
+GNQ;Equatorial Guinea;62.2749225;2
+ERI;Eritrea;30.9192;1
+EST;Estonia;100.0;0
+ETH;Ethiopia;18.06564;1
+EMU;Euro area;99.9977612254;0
+ECS;Europe & Central Asia (all income levels);99.6903350217;0
+ECA;Europe & Central Asia (developing only);98.9079124212;0
+EUU;European Union;99.9985409725;0
+FRO;Faeroe Islands;100.0;0
+FJI;Fiji;54.1295025;2
+FIN;Finland;100.0;0
+FCS;Fragile and conflict affected situations;38.9766966123;2
+FRA;France;100.0;0
+PYF;French Polynesia;54.1295025;2
+GAB;Gabon;79.371935;3
+GMB;Gambia, The;29.3817;1
+GEO;Georgia;99.239955;0
+DEU;Germany;100.0;0
+GHA;Ghana;50.04064;2
+GRC;Greece;100.0;0
+GRL;Greenland;100.0;0
+GRD;Grenada;86.3239125;3
+GUM;Guam;54.1295025;2
+GTM;Guatemala;76.6981125;3
+GIN;Guinea;19.121935;1
+GNB;Guinea-Bissau;55.441635;2
+GUY;Guyana;75.7416925;3
+HTI;Haiti;33.625;2
+HPC;Heavily indebted poor countries (HIPC);23.0098013473;1
+HIC;High income;99.4048733019;0
+OEC;High income: OECD;99.873500957;0
+NOC;High income: nonOECD;97.7163896481;0
+HND;Honduras;73.3;3
+HKG;Hong Kong SAR, China;100.0;0
+HUN;Hungary;100.0;0
+ISL;Iceland;100.0;0
+IND;India;66.725;3
+IDN;Indonesia;86.165;3
+IRN;Iran, Islamic Rep.;97.459435;0
+IRQ;Iraq;96.0178775;0
+IRL;Ireland;100.0;0
+IMY;Isle of Man;100.0;0
+ISR;Israel;99.09036;0
+ITA;Italy;100.0;0
+JAM;Jamaica;88.90836;3
+JPN;Japan;100.0;0
+JOR;Jordan;98.309435;0
+KAZ;Kazakhstan;97.789955;0
+KEN;Kenya;17.85;1
+KIR;Kiribati;54.1295025;2
+PRK;Korea, Dem. Rep.;24.4085175;1
+KOR;Korea, Rep.;97.984435;0
+KSV;Kosovo;100.0;0
+KWT;Kuwait;92.48119;0
+KGZ;Kyrgyz Republic;99.289955;0
+LAO;Lao PDR;58.459435;2
+LCN;Latin America & Caribbean (all income levels);93.2498276368;0
+LAC;Latin America & Caribbean (developing only);92.7469252032;0
+LVA;Latvia;100.0;0
+LDC;Least developed countries: UN classification;27.3075275027;1
+LBN;Lebanon;96.934435;0
+LSO;Lesotho;12.23757525;1
+LBR;Liberia;3.638961475;1
+LBY;Libya;99.189955;0
+LIE;Liechtenstein;100.0;0
+LTU;Lithuania;100.0;0
+LMY;Low & middle income;75.758639145;3
+LIC;Low income;19.7118536285;1
+LMC;Lower middle income;68.2199768764;3
+LUX;Luxembourg;100.0;0
+MAC;Macao SAR, China;85.7215075;3
+MKD;Macedonia, FYR;96.7678775;0
+MDG;Madagascar;12.5745025;1
+MWI;Malawi;6.625;1
+MYS;Malaysia;97.234435;0
+MDV;Maldives;97.4428775;0
+MLI;Mali;17.734435;1
+MLT;Malta;100.0;0
+MHL;Marshall Islands;54.1295025;2
+MRT;Mauritania;16.6085175;1
+MUS;Mauritius;98.989955;0
+MEX;Mexico;98.025;0
+FSM;Micronesia, Fed. Sts.;54.1295025;2
+MEA;Middle East & North Africa (all income levels);91.80370458;0
+MNA;Middle East & North Africa (developing only);91.5519283722;0
+MIC;Middle income;81.5074026642;3
+MDA;Moldova;96.4678775;0
+MCO;Monaco;100.0;0
+MNG;Mongolia;84.6085175;3
+MNE;Montenegro;100.0;0
+MAR;Morocco;79.8;3
+MOZ;Mozambique;12.184435;1
+MMR;Myanmar;47.862575;2
+NAM;Namibia;38.46564;2
+NPL;Nepal;73.8178775;3
+NLD;Netherlands;100.0;0
+NCL;New Caledonia;54.1295025;2
+NZL;New Zealand;100.0;0
+NIC;Nicaragua;73.475;3
+NER;Niger;9.15;1
+NGA;Nigeria;47.584435;2
+NAC;North America;100.0;0
+NOR;Norway;100.0;0
+OED;OECD members;99.7201031365;0
+OMN;Oman;92.48119;0
+OSS;Other small states;51.0453346113;2
+PSS;Pacific island small states;47.8940492646;2
+PAK;Pakistan;81.025;3
+PLW;Palau;54.1295025;2
+PAN;Panama;86.3239125;3
+PNG;Papua New Guinea;12.941632;1
+PRY;Paraguay;93.612475;0
+PER;Peru;79.515375;3
+PHL;Philippines;76.875;3
+POL;Poland;100.0;0
+PRT;Portugal;100.0;0
+PRI;Puerto Rico;86.3239125;3
+QAT;Qatar;92.48119;0
+ROM;Romania;100.0;0
+RUS;Russian Federation;100.0;0
+RWA;Rwanda;9.325;1
+WSM;Samoa;92.2620025;0
+SMR;San Marino;100.0;0
+STP;Sao Tome and Principe;55.137575;2
+SAU;Saudi Arabia;92.48119;0
+SEN;Senegal;43.95;2
+SRB;Serbia;100.0;0
+SYC;Seychelles;98.989955;0
+SLE;Sierra Leone;10.1428775;1
+SGP;Singapore;100.0;0
+SVK;Slovak Republic;100.0;0
+SVN;Slovenia;100.0;0
+SST;Small states;60.7303415766;2
+SLB;Solomon Islands;17.6416325;1
+SOM;Somalia;27.48878;1
+ZAF;South Africa;74.8;3
+SAS;South Asia;65.7967497334;3
+SSD;South Sudan;1.6406395;1
+ESP;Spain;100.0;0
+LKA;Sri Lanka;83.1875725;3
+KNA;St. Kitts and Nevis;86.3239125;3
+LCA;St. Lucia;86.3239125;3
+MAF;St. Martin (French part);86.3239125;3
+VCT;St. Vincent and the Grenadines;72.18067;3
+SSF;Sub-Saharan Africa (all income levels);28.978842841;1
+SSA;Sub-Saharan Africa (developing only);28.9440679201;1
+SDN;Sudan;27.4085175;1
+SUR;Suriname;98.777295;0
+SWZ;Swaziland;34.4178775;2
+SWE;Sweden;100.0;0
+CHE;Switzerland;100.0;0
+SYR;Syrian Arab Republic;90.1500725;0
+TJK;Tajikistan;98.471935;0
+TZA;Tanzania;11.425;1
+THA;Thailand;90.55;0
+TMP;Timor-Leste;36.408515;2
+TGO;Togo;21.58314;1
+TON;Tonga;88.490145;3
+TTO;Trinidad and Tobago;96.1027175;0
+TUN;Tunisia;96.784435;0
+TUR;Turkey;100.0;0
+TKM;Turkmenistan;98.696935;0
+TCA;Turks and Caicos Islands;86.3239125;3
+TUV;Tuvalu;39.4085175;2
+UGA;Uganda;12.04064;1
+UKR;Ukraine;97.3678775;0
+ARE;United Arab Emirates;92.48119;0
+GBR;United Kingdom;100.0;0
+USA;United States;100.0;0
+UMC;Upper middle income;96.2116477545;0
+URY;Uruguay;97.875;0
+UZB;Uzbekistan;99.139955;0
+VUT;Vanuatu;21.9192025;1
+VEN;Venezuela, RB;99.25;0
+VNM;Vietnam;93.009435;0
+VIR;Virgin Islands (U.S.);86.3239125;3
+WBG;West Bank and Gaza;92.48119;0
+WLD;World;80.6562377764;3
+YEM;Yemen, Rep.;43.2416325;2
+ZMB;Zambia;17.825075;1
+ZWE;Zimbabwe;34.91564;2

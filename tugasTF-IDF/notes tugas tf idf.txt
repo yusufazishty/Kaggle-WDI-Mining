@@ -1,0 +1,11 @@
+1. Dataset mengenai berita International, Pendidikan dan Militer
+
+b. Tahapan data mining:
+1. Melakukan mapping yang membagi berita yang dipisahkan oleh \t
+2. Melakukan mapping kembali dengan hanya mengambil kolom ke-3 dari ariable sebelumnya
+3. Melakukan pembersihan pada data berita (menghilangkan tanda baca), mengecilkan(lowercase) semua hurufnya dan displit berdasarkan spasi, kemudian dimappingkan kembali
+4. Malakukan mapping dengan mengambil nama dari setiap dokumen
+5. melakukan tf idf dengan menggunakan eyword yang telah ditentukan
+6. Menggabungkan hasil tf idf dengan judul dokumen yang telah dipisah, kemudian di filter, hanyayang memiliki nilai >0 yang dimapping. Agar mendapatkan hasil yang relevan
+7. Menampilkan semua data yang relevan dengan keyword
+8. Mengambilkan nilai tertinggi tf idf dari dokumen yang relevan
